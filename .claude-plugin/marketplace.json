@@ -1,0 +1,15 @@
+{
+  "name": "sp-opt-dev",
+  "description": "Development marketplace for SP-Opt performance optimization skills",
+  "owner": {
+    "name": "sp-opt contributors"
+  },
+  "plugins": [
+    {
+      "name": "sp-opt",
+      "description": "Performance optimization workflows for AI agents: profiling, parallel exploration, three-layer validation",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}

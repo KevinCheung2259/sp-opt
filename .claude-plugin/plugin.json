@@ -1,0 +1,10 @@
+{
+  "name": "sp-opt",
+  "description": "Performance optimization workflows for AI agents: profiling-guided analysis, parallel optimization exploration, three-layer validation (correctness, precision, performance)",
+  "version": "0.1.0",
+  "author": {
+    "name": "sp-opt contributors"
+  },
+  "license": "MIT",
+  "keywords": ["optimization", "performance", "profiling", "benchmark", "throughput", "latency", "memory", "gpu", "inference", "training", "skills", "workflows"]
+}

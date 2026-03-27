@@ -84,6 +84,12 @@ Side-channel: `perf-diagnostics` — triggered when optimization doesn't deliver
 
 TDD, systematic-debugging, brainstorming, writing-plans, dispatching-parallel-agents, using-git-worktrees, requesting/receiving-code-review, finishing-a-development-branch — all provided by Superpowers.
 
+## Acknowledgments
+
+SP-Opt builds on [Superpowers](https://github.com/obra/superpowers) by Jesse Vincent. The skill system architecture, workflow patterns, and multi-platform support are all from Superpowers. Read more: [Superpowers for Claude Code](https://github.com/obra/superpowers).
+
+The Validation Pyramid concept and ML-specific skill design are inspired by [superpowers-ML](https://github.com/qqhard/superpowers-ML) by qqhard.
+
 ## License
 
 MIT License

@@ -25,8 +25,8 @@ Install [Superpowers](https://github.com/obra/superpowers) first.
 In Claude Code, run:
 
 ```
-/plugin marketplace add KevinCheung2259/sp-opt
-/plugin install sp-opt@KevinCheung2259
+/plugin marketplace add https://github.com/KevinCheung2259/sp-opt.git
+/plugin install sp-opt@KevinCheung2259-sp-opt
 ```
 
 ### Verify Installation

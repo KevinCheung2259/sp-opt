@@ -23,14 +23,16 @@ Install [Superpowers](https://github.com/obra/superpowers) first.
 ### Claude Code
 
 ```
-/plugin marketplace add <owner>/sp-opt
-/plugin install sp-opt
+/plugin marketplace add KevinCheung2259/sp-opt
+/plugin install sp-opt@KevinCheung2259
 ```
 
 ### Manual
 
 ```bash
-git clone <repo-url> ~/.claude/plugins/sp-opt
+git clone https://github.com/KevinCheung2259/sp-opt.git
+cd sp-opt
+# Then point your Claude Code plugin config to this directory
 ```
 
 ## The Optimization Workflow

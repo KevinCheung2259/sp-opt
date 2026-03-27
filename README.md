@@ -22,17 +22,20 @@ Install [Superpowers](https://github.com/obra/superpowers) first.
 
 ### Claude Code
 
+In Claude Code, run:
+
 ```
 /plugin marketplace add KevinCheung2259/sp-opt
 /plugin install sp-opt@KevinCheung2259
 ```
 
-### Manual
+### Verify Installation
 
-```bash
-git clone https://github.com/KevinCheung2259/sp-opt.git
-cd sp-opt
-# Then point your Claude Code plugin config to this directory
+Start a new session and check that SP-Opt skills are available:
+
+```
+/sp-opt:opt-brainstorming    → start a new optimization task
+/sp-opt:perf-diagnostics     → diagnose performance issues
 ```
 
 ## The Optimization Workflow
